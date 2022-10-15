@@ -26,3 +26,10 @@ Baris 12, dan 13: tipe data enumerasi untuk keperluan khusus, biasanya digunakan
 
 Baris 15, dan 16: jika enum menghasilkan tipe objek enum, maka baris 15, dan 16 adalah deklarasi variabel yang berisi tipe enumerasi buatan baris 12, dan 13
 
+![image](https://user-images.githubusercontent.com/75843138/195972322-369d5f29-454d-42aa-a361-c101efd1659a.png)
+
+Disini hanya if else sederhana, jika user memilih komentar "Paham" maka akan tampil di layarnya "Bagus, sekarang lanjut buat project" begitu seterusnya
+
+![image](https://user-images.githubusercontent.com/75843138/195972275-51d0db28-7efa-443f-a535-3a1acbbc6005.png)
+
+Codingan ini berfungsi untuk menampilkan hasil input ke layar. Codingan sudah siap dan tinggal di jalankan
