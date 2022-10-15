@@ -10,3 +10,6 @@ Pemograman Permainan AA
 ## TUTORIAL
 1. Buka UnityHub, dan pilih new project lalu pilih yang 3D Core
 ![image](https://user-images.githubusercontent.com/75843138/195971710-b81029a9-003f-4962-8cc8-bc20b776df19.png)
+
+2. Buat file C# script untuk kodingnya, tempatkan di file asset
+![image](https://user-images.githubusercontent.com/75843138/195971799-940aac21-f6d2-46ae-97b5-d421d51320ae.png)
