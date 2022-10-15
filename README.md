@@ -32,4 +32,13 @@ Disini hanya if else sederhana, jika user memilih komentar "Paham" maka akan tam
 
 ![image](https://user-images.githubusercontent.com/75843138/195972275-51d0db28-7efa-443f-a535-3a1acbbc6005.png)
 
-Codingan ini berfungsi untuk menampilkan hasil input ke layar. Codingan sudah siap dan tinggal di jalankan
+Codingan ini berfungsi untuk menampilkan hasil input ke layar. 
+
+4. Sebelum di jalankan, input value inspector, carannya sebagai berikut
+![image](https://user-images.githubusercontent.com/75843138/195972490-bd01e749-eb95-4162-b9bd-e1102bbb2570.png)
+
+Codingan sudah siap dan tinggal di jalankan
+
+Hasil:
+
+![image](https://user-images.githubusercontent.com/75843138/195972520-619d73d1-97b8-4026-b030-ddb8d388440e.png)
