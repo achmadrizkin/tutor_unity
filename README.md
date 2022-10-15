@@ -8,3 +8,5 @@ Pemograman Permainan AA
 ![image](https://user-images.githubusercontent.com/75843138/195971608-adfee876-5105-4d6a-baa8-6c42af0d5f45.png)
 
 ## TUTORIAL
+1. Buka UnityHub, dan pilih new project lalu pilih yang 3D Core
+![image](https://user-images.githubusercontent.com/75843138/195971710-b81029a9-003f-4962-8cc8-bc20b776df19.png)
