@@ -13,3 +13,16 @@ Pemograman Permainan AA
 
 2. Buat file C# script untuk kodingnya, tempatkan di file asset
 ![image](https://user-images.githubusercontent.com/75843138/195971799-940aac21-f6d2-46ae-97b5-d421d51320ae.png)
+
+3. Ketik kodingan dibawah
+
+![image](https://user-images.githubusercontent.com/75843138/195971909-61f57257-1a40-4f0d-aecb-290022ca205d.png)
+
+Pembahasan Code:
+
+Baris 8 merupakan remark/Komentar. Baris 11 s.d 16 deklarasi variabel. Setiap variabel public akan tampil pada Inspector. Sedangkan yang tidak public (baris 9) hanya bisa diakses di class C#.
+
+Baris 12, dan 13: tipe data enumerasi untuk keperluan khusus, biasanya digunakan untuk data yang sudah baku atau dibakukan, dan menghasilkan tipe objek enum.
+
+Baris 15, dan 16: jika enum menghasilkan tipe objek enum, maka baris 15, dan 16 adalah deklarasi variabel yang berisi tipe enumerasi buatan baris 12, dan 13
+
